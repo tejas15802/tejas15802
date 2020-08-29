@@ -20,7 +20,7 @@
 
 <br />
 
-## HACK THE BOX (BADGE):
+## HACK THE BOX:
 
 ![HTB](http://www.hackthebox.eu/badge/image/325833)
 
