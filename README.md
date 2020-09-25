@@ -8,6 +8,7 @@
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
 ## Languages and Tools Used:
 
@@ -30,3 +31,4 @@
 
 [Instagram]: http://www.instagram.com/y_tejas_y/
 [LinkedIn]: https://in.linkedin.com/in/tejendra-saradhi/
+[Twitter]: https://twitter.com/Tejas1582/
