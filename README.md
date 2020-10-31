@@ -29,6 +29,6 @@
 
 
 
-[Instagram]: http://www.instagram.com/y_tejas_y/
+[Instagram]: https://grabify.link/7K3YSD/
 [LinkedIn]: https://in.linkedin.com/in/tejendra-saradhi/
 [Twitter]: https://twitter.com/Tejas1582/
