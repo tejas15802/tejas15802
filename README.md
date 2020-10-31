@@ -30,5 +30,5 @@
 
 
 [Instagram]: https://grabify.link/7K3YSD/
-[LinkedIn]: https://in.linkedin.com/in/tejendra-saradhi/
-[Twitter]: https://twitter.com/Tejas1582/
+[LinkedIn]: https://grabify.link/4VSIMR
+[Twitter]: https://grabify.link/5TSE17
