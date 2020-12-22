@@ -6,9 +6,9 @@
 
 ## Connect with me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img height="32" width="32" src="https://github.com/tejas15802/tejas15802/blob/master/icons8-instagram.gif" />][Instagram]
+[<img height="32" width="32" src="https://github.com/tejas15802/tejas15802/blob/master/linkedin-bounce.gif" />][LinkedIn]
+[<img height="32" width="32" src="https://github.com/tejas15802/tejas15802/blob/master/twitter-circled-shake.gif" />][Twitter]
 
 ## Languages and Tools Used:
 
