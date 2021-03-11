@@ -1,8 +1,9 @@
 ## Hello
 
 - 🔭 I’m currently working on Cognizance CMS
-- 🌱 I’m currently learning cybersecurity (***Ethical Hacking***), Python and C++ `
+- 🌱 I’m currently learning Cybersecurity, Python and C++ `
 - ⚡ Fun fact: I'm a Musician
+- I'm mentor and student co-ordinator for cybersecurity @cognizance-amrita
 
 ## Connect with me:
 
