@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cognizance CMS
 - 🌱 I’m currently learning Cybersecurity, Python and C++ `
 - ⚡ Fun fact: I'm a Musician
-- I'm mentor and student co-ordinator for cybersecurity @cognizance-amrita
+- I'm mentor and student co-ordinator for cybersecurity <a href="https://github.com/cognizance-amrita">@cognizance-amrita</a>
 
 ## Connect with me:
 
