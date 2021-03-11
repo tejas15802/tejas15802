@@ -1,6 +1,6 @@
 ## Hello
 
-- 🔭 I’m currently working on ***secret project*** 
+- 🔭 I’m currently working on Cognizance CMS
 - 🌱 I’m currently learning cybersecurity (***Ethical Hacking***), Python and C++ `
 - ⚡ Fun fact: I'm a Musician
 
